@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "express": "^4.15.3",
+    "gc-profiler": "^1.4.0",
+    "webpack": "^3.4.1",
+    "webpack-node-externals": "^1.6.0"
+  },
+  "name": "cachedemo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
